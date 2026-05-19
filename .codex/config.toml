@@ -1,0 +1,10 @@
+approvals_reviewer = "user"
+sandbox_mode = "danger-full-access"
+[projects."/home/valhalla/Projects/pocket_pixel"]
+trust_level = "trusted"
+
+[projects."/home/valhalla/Projects"]
+trust_level = "trusted"
+
+[tui.model_availability_nux]
+"gpt-5.5" = 1
